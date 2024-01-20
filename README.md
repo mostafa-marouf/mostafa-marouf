@@ -1,0 +1,7 @@
+- 👋 Hi, I’m [@mostafa-marouf](https://github.com/mostafa-marouf)
+- 👀 I’m interested in frontend development, web design, and exploring new technologies.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and React to strengthen my frontend skills.
+- 💞️ I’m looking to collaborate on open-source projects or anything related to web development.
+- 📫 How to reach me: [mostafamarouf01@gmail.com](mailto:mostafamarouf01@gmail.com),
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love experimenting with new coding frameworks and creating pixel art in my free time.
